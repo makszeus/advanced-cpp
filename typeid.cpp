@@ -1,9 +1,8 @@
 #include <iostream>
-#include <typeinfo>
 
 class Base {
 public:
-    virtual ~Base() {}
+    virtual ~Base() = default;
 };
 
 class Derived : public Base {
