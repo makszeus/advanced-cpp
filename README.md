@@ -6,6 +6,8 @@ Inside this repository, you will find a collection of well-organized and careful
 </br>
 From advanced topics such as templates, lambda expressions, multithreading, and design patterns to performance optimization and memory management techniques, it covers a wide range of subjects crucial for developing robust, efficient, and scalable C++ applications.
 
+## Books
+
 There are several books that can help you dive into advanced C++ concepts and techniques and gain a comprehensive understanding of the language. Here are some highly recommended books:
 
 #### 1. "Effective Modern C++" by Scott Meyers
